@@ -25,7 +25,7 @@ namespace ZkSyncNet.Services
             // This is a placeholder implementation
             if (string.IsNullOrEmpty(ownerAddress))
                 throw new ArgumentException("Owner address cannot be empty", nameof(ownerAddress));
-
+            Console.WriteLine("ete");
             // In a real implementation, you would:
             // 1. Prepare smart contract deployment transaction
             // 2. Use paymaster if specified in options

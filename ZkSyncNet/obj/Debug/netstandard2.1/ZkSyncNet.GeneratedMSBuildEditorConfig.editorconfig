@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = ZkSyncNet
-build_property.ProjectDir = E:\Nuget\ZkSyncNet\
+build_property.ProjectDir = E:\Nuget\ZkSyncNet\ZkSyncNet\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

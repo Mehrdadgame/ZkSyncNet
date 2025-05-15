@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("zkSync Era SDK for .NET and Unity")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+840dc4a5c3f43a68fe4eccd28166739c75dab117")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZkSyncNet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZkSyncNet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
